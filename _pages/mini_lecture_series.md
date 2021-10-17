@@ -8,8 +8,8 @@ permalink: /aoa.html
 
 # Calendar
 
-Every Tuesday at 9:30 in HL124.
+Every Tuesday at 4:30 in Seminar Hall.
 
-05.09.2017 Aarts
+[XTBG Seminar](http://seminar.xtbg.ac.cn/)
 
 dfghjkl
