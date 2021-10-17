@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Dossa personal Website at [XTBG](http://en.xtbg.ac.cn/)."
 sitemap: false
 permalink: /allnews.html
 ---
