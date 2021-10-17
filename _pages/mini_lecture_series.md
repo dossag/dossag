@@ -12,4 +12,5 @@ Every Tuesday at 4:30 in Seminar Hall.
 
 [XTBG Seminar](http://seminar.xtbg.ac.cn/)
 
-dfghjkl
+Interested to speak at the XTBG seminar, 
+contact [me](mailto:dossa@xtbg.org.cn)
