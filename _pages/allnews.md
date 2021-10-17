@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Dossa personal Website at [XTBG](http://en.xtbg.ac.cn/)."
+excerpt: "Dossa at XTBG."
 sitemap: false
 permalink: /allnews.html
 ---
