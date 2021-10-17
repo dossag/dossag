@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Dossa personal Website - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Dossa at XTBG."
 sitemap: false
 permalink: /
 ---
