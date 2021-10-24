@@ -1,3 +1,17 @@
+- name: Houefa Anette Agossadou 
+  photo: rock.jpg
+  info: PhD student
+  email: waraphon.panomwong@gmail.com
+  number_educ: 1
+  education1: MSc. Cote d'Ivoire
+  
+- name: Waraphon Panomwongkasem (Safe) 
+  photo: rock.jpg
+  info: Master student
+  email: waraphon.panomwong@gmail.com
+  number_educ: 0
+  education1:
+
 #- name:
 #  photo: rock.jpg
 #  info:
@@ -8,11 +22,6 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+
 
 
