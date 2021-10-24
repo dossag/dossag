@@ -2,27 +2,9 @@
   photo: Jacky.jpg
   info: Associate professor, started Sept 2018
   email: dgbadamassi@gmail.com
-  number_educ: 5
+  number_educ: 5 # the number of levels to include.
   education1: Master with <a href="http://english.neau.edu.cn/">Wang Hongyan</a> and <a href="https://www.worldagroforestry.org/staff/harrison-rhett">Rhett D. Harrison</a>, Northeast Agricultural University (China)
   education2: PhD in Ecology (University of Chinese Academy of Sciences) with <a href="https://www.worldagroforestry.org/staff/harrison-rhett">Rhett D. Harrison</a> and <a href="https://www.researchgate.net/profile/Kun-Fang-Cao">Kun-Fang-Cao</a>
   education3: Postdoc at Kunming Institute of Botany, Chinese Academy of Sciences
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
+  education4: Visiting researcher 2016 at <a href="https://cbs.umn.edu/contacts/kathryn-bushley">Kathryn E. Bushley</a> at University of Minnesota
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-- name: 
-  photo:
-  info: 
-  email:
-  number_educ:
-  education1: 
-  education2: 
-  education3: 
-
-- name: 
-  photo:
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2: 
-
