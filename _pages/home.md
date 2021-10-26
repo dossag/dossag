@@ -54,7 +54,7 @@ We are a part of dynamic research group called [Forest Canopy Ecology Research L
 
 
 
-Dossa belongs to Forest Canopy Ecology Research group. This group aims to understand how biodiversity is spatiotemporally structured by stochastic processes, and biotic and abiotic factors. We investigate intra- and interspecific interactions of organisms at individual, species and community levels, which give rise to and govern complex food-webs and ecosystem functions such as herbivory, pollination and decomposition. Our group capitalizes on a network of Chinese canopy cranes to explore the frontiers of biodiversity and ecosystem functioning the canopy, an unexplored realm of forest (see [Research](research)).
+Dossa belongs to Forest Canopy Ecology Research group. This group aims to understand how biodiversity is spatiotemporally structured by stochastic processes, and biotic and abiotic factors. We investigate intra- and interspecific interactions of organisms at individual, species and community levels, which give rise to and govern complex food-webs and ecosystem functions such as herbivory, pollination and decomposition. Our group capitalizes on a network of Chinese canopy cranes to explore the frontiers of biodiversity and ecosystem functioning in the canopy, an unexplored realm of forest (see [Research](research)).
 
 We are located at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences (XTBG-CAS), which belongs to tropical China a gate door to Tropical East Asia.
 
@@ -64,8 +64,8 @@ We are located at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sc
 We are grateful for funding from Yunnan Government, [Science and Technology department](www.nwo.nl) ([](URL) and the [CAS President International Fellowship Intitiative (PIFI)](URL)), and from an [National Natural Science Foundation (NSFC) ](URAL), as well as continuous support from XTBG.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Yunnan_gov.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CAS_PIFI.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSFC.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_cas.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_pifi.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nsfc.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_xtbg.jpg" style="width: 110px">
 </figure>
