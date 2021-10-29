@@ -33,20 +33,15 @@ Studies of woody debris decomposition have usually considered wood and bark as a
 While this approach has enhanced our general knowledge concerning the overall rate of decomposition for woody debris, it has not provided the mechanistic understanding needed to make predictions for this important ecological process. In particular, studies on the decomposition of woody debris have revealed a strong species effect, even when controlling for critical traits such as wood density or diameter, but our understanding on what drives this species effect has been held back by the lack of distinction between wood and bark. In my recent and current project, I set out to investigate the role of bark on the decomposition of the wood inside it. Preliminary results indeed showed that bark does play an important role in wood decomposition and such role is species specific (Dossa et al. 2016). Follow up work suggests a size
 specific effect (Dossa et al.2018). All together, these results suggest that incorporating the effect of bark in wood decomposition will lead to a more realistic proxy to parameterize the decomposition process in global climate models.
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/bark_uncovered.jpg){: style="width: 250px; float: right; margin: 0px 10px"}
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
 
 
 ***Project 3: Biodiversity effects on woody debris decomposition: The role of microorganisms in wood decomposition***
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
 Given the high rates of global biodiversity loss, the relationship between diversity and ecosystem
 functioning is of critical concern and an important aspect of forest ecology. Wood decomposition is predominantly mediated by fungi, and the rate of decomposition is influenced by climate, substrate quality, and the responses of the decomposer community to these factors. Hence, diversity may affect wood decomposition through (i) habitat structure and its effect on microclimatic conditions on the ground, (ii) the chemical and physical properties of the wood, and (iii) the composition of the decomposer community. Moreover, the decomposition of woody debris is a successional process with different species performing distinct roles in the decomposition of substrates. However, most studies on the microorganism diversity and ecosystem functioning relationship are under environmental control with contradicting findings. Moreover, studies that attempt to investigate this relationship in the field have been confined to temperate and boreal forest, neglecting tropical forests. I use both traditional methods for measurement of microbial biomass through bio-marking phospholipid fatty acids (PLFA) and next generation sequencing to understand the relationship between microorganisms and wood decomposition rate as a basis for testing theoretical relationships.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/disturbance_decom_hypothesis.jpg){: style="width: 70%; float: center; margin: 0px"}
 
 **Future project**
 
