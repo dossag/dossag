@@ -42,7 +42,7 @@ We are a part of dynamic research group called [Forest Canopy Ecology Research L
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/castanopis_logs_lab_mengsong.jpg" alt="Slide 6" />
         </div>
           <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/liana_with_color_fruit_2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/liana_with_color_fruit_2.jpg" alt="Slide 7" />
         </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
