@@ -27,21 +27,23 @@ We are a part of dynamic research group called [Forest Canopy Ecology Research L
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/forest_canopy_ecology_group.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dossa_with_cut_liana.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dossa_with_liana.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dossa_wood_mengsong.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mensong_shadehouse_overview.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dossa_rhett_rinjani.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hans_dossa.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dossa_atu_collecting_soil.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dossa_lulu_kids.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/castanopis_logs_lab_mengsong.jpg" alt="Slide 6" />
         </div>
-    </div>
+          <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/liana_with_color_fruit_2.jpg" alt="Slide 2" />
+        </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
