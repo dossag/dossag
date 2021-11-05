@@ -35,6 +35,6 @@ If you are a Master student at The University of Chinese Academy of Sciences loo
 If you are interested in pursuing a Master degree at University of Chinese Academy of Sciences, see [UCAS](https://english.ucas.ac.cn/index.php/about-ucas). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very motivated students).
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+    <figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+    </figure>
