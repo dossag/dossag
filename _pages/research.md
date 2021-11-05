@@ -29,7 +29,7 @@ such as organic matter decomposition. Nonetheless, the effects of forest disturb
 
 
 
-***Project 2: The cover uncovered: bark control over wood decomposition*** ![]({{ site.url }}{{ site.baseurl }}/images/respic/bark_uncovered.jpg){: style="width: 250px; float: left; margin: 0px 10px"}
+***Project 2: The cover uncovered: bark control over wood decomposition*** 
 
 
 Studies of woody debris decomposition have usually considered wood and bark as a single plant organ.
@@ -38,7 +38,8 @@ specific effect (Dossa et al.2018). All together, these results suggest that inc
 
 
 
-***Project 3: Biodiversity effects on woody debris decomposition: The role of microorganisms in wood decomposition*** ![]({{ site.url }}{{ site.baseurl }}/images/respic/disturbance_decomp_hypothesis.jpg){: style="width: 250px; float: left; margin: 0px 10px"}
+***Project 3: Biodiversity effects on woody debris decomposition: The role of microorganisms in wood decomposition*** 
+
 
 Given the high rates of global biodiversity loss, the relationship between diversity and ecosystem
 functioning is of critical concern and an important aspect of forest ecology. Wood decomposition is predominantly mediated by fungi, and the rate of decomposition is influenced by climate, substrate quality, and the responses of the decomposer community to these factors. Hence, diversity may affect wood decomposition through (i) habitat structure and its effect on microclimatic conditions on the ground, (ii) the chemical and physical properties of the wood, and (iii) the composition of the decomposer community. Moreover, the decomposition of woody debris is a successional process with different species performing distinct roles in the decomposition of substrates. However, most studies on the microorganism diversity and ecosystem functioning relationship are under environmental control with contradicting findings. Moreover, studies that attempt to investigate this relationship in the field have been confined to temperate and boreal forest, neglecting tropical forests. I use both traditional methods for measurement of microbial biomass through bio-marking phospholipid fatty acids (PLFA) and next generation sequencing to understand the relationship between microorganisms and wood decomposition rate as a basis for testing theoretical relationships.
