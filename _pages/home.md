@@ -44,15 +44,7 @@ We are a part of dynamic research group called [Forest Canopy Ecology Research L
           <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/liana_with_color_fruit_2.jpg" alt="Slide 7" />
         </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+
 
 
 
@@ -65,9 +57,12 @@ We are located at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sc
 
 We are grateful for funding from Yunnan Government, [Science and Technology department](http://www.ynst.org.cn/english/page/index.html?id=1) and the [CAS President International Fellowship Intitiative (PIFI)](http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi)), and from an [National Natural Science Foundation (NSFC) ](https://www.nsfc.gov.cn/english/site_1/index.html), as well as continuous support from XTBG.
 
+<br />
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_cas.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_pifi.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nsfc.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_xtbg.jpg" style="width: 110px">
+  
 </figure>
