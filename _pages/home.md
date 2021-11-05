@@ -63,7 +63,7 @@ We are located at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sc
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Yunnan Government, [Science and Technology department](www.nwo.nl) ([](URL) and the [CAS President International Fellowship Intitiative (PIFI)](URL)), and from an [National Natural Science Foundation (NSFC) ](URAL), as well as continuous support from XTBG.
+We are grateful for funding from Yunnan Government, [Science and Technology department](http://www.ynst.org.cn/english/page/index.html?id=1) and the [CAS President International Fellowship Intitiative (PIFI)](http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi)), and from an [National Natural Science Foundation (NSFC) ](https://www.nsfc.gov.cn/english/site_1/index.html), as well as continuous support from XTBG.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_cas.jpg" style="width: 210px">
